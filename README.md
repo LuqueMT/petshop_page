@@ -1,3 +1,19 @@
+# Projeto Petshop
+
+O **Petshop** é um projeto desenvolvido com tecnologias modernas para criar uma aplicação dinâmica e estilosa, voltada para uma experiência otimizada.
+
+## 🚀 Tecnologias Utilizadas
+
+- **Next.js**: Framework React utilizado para construção de aplicações web rápidas e eficientes.
+- **Tailwind**: Framework de CSS para estilização prática e responsiva.
+- **TypeScript**: Linguagem empregada para garantir tipagem estática e maior confiabilidade no código.
+
+## 🛠️ Biblioteca Utilizada
+
+- **@type/aos**: Utilizada para animações que enriquecem a interatividade do projeto.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
